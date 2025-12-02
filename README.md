@@ -1,10 +1,10 @@
-# 🏰 Desafio de Projeto 03: Classes de um Jogo
+# 🏰 Desafio de Projeto 03: Classes e Objetos de um Jogo
 
 Este repositório contém a resolução do desafio de código proposto pela **DIO (Digital Innovation One)**, focado em lógica de programação e Orientação a Objetos.
 
 ## 🎯 Objetivo
 
-O objetivo do projeto é criar uma classe genérica que represente um herói de uma aventura, contendo propriedades específicas e um método de ataque que varia de acordo com o tipo do herói.
+O objetivo do projeto é criar uma classe genérica que represente um herói de uma aventura, contendo propriedades específicas e um método de ataque que varia de acordo com o tipo do herói. Este projeto foi desenvolvido para praticar conceitos fundamentais de programação.
 
 ## 🛠️ Tecnologias Utilizadas
 
